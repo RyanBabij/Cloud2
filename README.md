@@ -33,7 +33,7 @@ CloudFit aims to:
   - User coordinates and elevation
   - Local temperature (planned via OpenWeatherMap API)
 
-## 🛠Technologies Used
+## Technologies Used
 
 | Area         | Tech Stack                     |
 |--------------|--------------------------------|
